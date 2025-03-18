@@ -30,7 +30,7 @@ Um projeto desenvolvido com **HTML, CSS e JavaScript puro**, que consome a **[Ri
 
 - ## 🎥 Demonstração
 
-[[Assista ao vídeo]](https://www.youtube.com/watch?v=FRAjgBN1G-A)  
+<a href="https://www.youtube.com/watch?v=FRAjgBN1G-A" target="_blank">🎥 Assista ao vídeo</a>
 
 
 ## 🚀 Como Rodar o Projeto
