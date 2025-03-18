@@ -28,6 +28,11 @@ Um projeto desenvolvido com **HTML, CSS e JavaScript puro**, que consome a **[Ri
 - **JavaScript (ES6+)**
 - **[Rick and Morty API](https://rickandmortyapi.com/api/character?page=1)**
 
+- ## 🎥 Demonstração
+
+[![Assista ao vídeo]](https://youtu.be/_TUjY9rdjRk)  
+
+
 ## 🚀 Como Rodar o Projeto
 
 1. Clone este repositório:  
